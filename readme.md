@@ -3,7 +3,7 @@
 ## 2023
 
 ### 论文
-Pain Recognition Differences between Female and Male Subjects: An Analysis based on the Physiological Signals of the X-ITE Pain Database女性与男性受试者疼痛识别差异：基于X-ITE疼痛数据库生理信号的分析
+1. Pain Recognition Differences between Female and Male Subjects: An Analysis based on the Physiological Signals of the X-ITE Pain Database女性与男性受试者疼痛识别差异：基于X-ITE疼痛数据库生理信号的分析
 
 https://dl.acm.org/doi/10.1145/3610661.3617131
 
@@ -14,9 +14,8 @@ https://dl.acm.org/doi/10.1145/3610661.3617131
 摘要：在本研究中，我们研究了人类对热和电疼痛刺激的适应和习惯，重点关注女性和男性受试者之间的差异。我们评估了两种疼痛识别场景，无痛与最低疼痛水平以及无痛与最高疼痛水平。此外，实验结合了两种刺激持续时间，即短期和长期，从而产生了八项不同的任务。请注意，在这项工作中，我们的目的不是提出任何新的分类方法。根据我们的结果，我们能够观察到女性受试者对某些生理信号的热刺激和电刺激的适应和习惯随时间的变化。然而，长期刺激的长度为 60 秒，这可能会限制这些观察结果对于长期疼痛（例如慢性疼痛）的有效性。此外，我们观察到在特定情况下，仅使用特定于女性或男性受试者的数据可能有利于相应的分类性能。
 
 ## 2024
-### 开源
 ### 论文
-Unraveling Pain Levels: A Data-Uncertainty Guided Approach for Effective Pain Assessment
+1. Unraveling Pain Levels: A Data-Uncertainty Guided Approach for Effective Pain Assessment
 
 https://ojs.aaai.org/index.php/AAAI/article/view/30221
 
